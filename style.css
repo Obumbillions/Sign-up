@@ -1,0 +1,100 @@
+body{
+    font-size: 15px;
+    font-family: sans-serif;
+   
+     
+
+}
+.container{
+    margin-left: 30px;
+
+}
+
+.flex {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    display: flex;
+   
+    
+}
+.logo{
+      margin-top: 30px;
+      margin-bottom: 30px;
+    
+}
+#facebook{
+    padding-left: 30px;
+    border-radius: 5px;
+    border-color: solid black;
+}
+#google{
+    border-radius: 5px;
+    border-color: solid black;
+    margin-right: 10px;
+    padding-right: 30px;
+}
+
+input{
+width: 30em;
+}
+
+#password{
+    margin-bottom: 15px;
+}
+#trip{
+   width: 100%;
+}
+
+#Terms{
+    
+   margin-left: 0;
+   font-size: 1px;
+   margin-top: 20px;
+   margin-bottom:20px; 
+
+}
+
+#words{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom:20px; 
+}
+
+.image{
+    position: relative;
+    width: 50%;
+    left: 450px;
+    bottom: 44rem;
+    height: 25%;
+
+    }
+#text{
+    margin-top: 20px;
+    margin-bottom:20px; 
+}
+
+#number{
+        margin-top: 20px;
+        margin-bottom:20px; 
+}
+#email{
+        margin-top: 20px;
+        margin-bottom:20px; 
+}
+#password{
+       margin-top: 20px;
+       margin-bottom:20px; 
+}
+.submit{
+    border-radius: 1px;
+    border:solid black;
+    background-color: blue; 
+    width: 395px;
+    margin-left: 30px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom:20px; 
+    
+    
+}
